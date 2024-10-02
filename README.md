@@ -1,6 +1,6 @@
-# gamecamp
+# Gamecamp
 
-A new Flutter project.
+An android app project for a ficctional game company.
 
 ## Getting Started
 
