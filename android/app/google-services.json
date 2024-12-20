@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "282364525553",
+    "firebase_url": "https://gamecamp-a1788-default-rtdb.firebaseio.com",
+    "project_id": "gamecamp-a1788",
+    "storage_bucket": "gamecamp-a1788.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282364525553:android:5577700f4fe9017f416250",
+        "android_client_info": {
+          "package_name": "gamecamp.SI700"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCV02RWe6PBZatIHQNHUunScAuPDyfrDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

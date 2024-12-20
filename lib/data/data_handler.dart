@@ -38,7 +38,7 @@ class DataHandler {
   }
 
   static bool isCepValid(String cep) {
-    return RegExp(r'^\d{8}$').hasMatch(cep);
+    return RegExp(r'^\d{8}$').hasMatch(cep.replaceAll(RegExp(r'\D'), ''));
   }
 
   static bool isPhoneNumberValid(String phone) {
